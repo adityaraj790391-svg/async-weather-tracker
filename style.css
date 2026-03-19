@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: aliceblue;
+  background: rgb(37, 37, 37);
   color: white;
   padding: 30px 20px;
   min-height: 100vh;
@@ -16,7 +16,7 @@ h1 {
   text-align: center;
   font-size: 28px;
   margin-bottom: 24px;
-  color: black;
+  color: white;
 }
 
 
@@ -41,7 +41,7 @@ h1 {
 
 .search-box button {
   padding: 10px 20px;
-  background: aqua;
+  background: rgb(66, 91, 91);
   color: white;
   border-radius: 8px;
   font-size: 15px;
